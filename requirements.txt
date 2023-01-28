@@ -1,0 +1,2 @@
+opencv-python
+facemorpher @ git+https://github.com/alyssaq/face_morpher@21662545d1f9acee91ad22031d183845b32094c7
